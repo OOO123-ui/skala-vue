@@ -1,5 +1,5 @@
 <script setup>
-import SampleOne from '/Users/park-inki/projects/skala-vue/exercise/WeatherParent.vue'
+import SampleOne from '/Users/park-inki/projects/skala-vue/src/components/exercise/WeatherParent.vue'
 </script>
 
 <template>

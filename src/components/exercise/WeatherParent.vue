@@ -59,4 +59,14 @@ const showDetail = (cityName, status) => {
   width: 600px;
   margin: 0 auto;
 }
+.status-bar {
+  margin-top: 12px;
+  padding: 12px;
+  background-color: #eef9ed;
+  border-radius: 6px;
+  color: #29a33a;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
 </style>
